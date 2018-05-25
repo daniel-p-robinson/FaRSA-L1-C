@@ -1,4 +1,6 @@
-#Fast Reduced Space Algorithm v2.0
+# Fast Reduced Space Algorithm v2.0
+
+Authors: Tianyi Chen, Frank E. Curtis, Daniel P. Robinson
 
 FaRSA is an optimized library for solving l1-regularized convex optimization problem:
 
