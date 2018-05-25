@@ -68,7 +68,7 @@ To employ FaRSA on aimed problem correctly, users need to set a FaRSA profile. O
 	
 	-1 means lambda is defined by the following lambda_coefficient
 
-- lambda_coefficient: another of define lambda
+- lambda_coefficient: another way of setting lambda
 
 	lambda = C / num_of_samples
 
